@@ -56,6 +56,8 @@ test.describe.serial('Test Suite used for the Locators', () => {
 
         await expect(womanTitle).toContainText('Women');
 
+        console.log("Ritesh Welcome");
+
     })
     
 })
